@@ -1,0 +1,10 @@
+k_size: 32
+threads: 12
+buckets: 64
+memory: 24608
+queue_size: 6
+queue_num: 2
+farmer_public_key: None
+pool_public_key: None
+tmp_dir: E:\chia_tmp
+final_dir: I:\chia_final
